@@ -1,10 +1,5 @@
-@font-face {
-    font-family: montserrat;
-    src: url(font/Montserrat-Regular.otf);
-}
-
 body{
-    margin: 0; padding: 0; font-family: montserrat;
+    margin: 0; padding: 0; font-family: Courier;
 }
 .bg-black{
     background: black;
@@ -35,7 +30,7 @@ body{
 
 /* set font style 2 */
 .font-2{
-    font-family: raleway;
+    font-family: Courier;
 }
 
 
