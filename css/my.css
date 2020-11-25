@@ -1,3 +1,8 @@
+@font-face {
+    font-family: montserrat;
+    src: url(font/Montserrat-Regular.otf);
+}
+
 body{
     margin: 0; padding: 0; font-family: montserrat;
 }
