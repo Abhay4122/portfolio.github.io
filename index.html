@@ -234,7 +234,7 @@
             let scroltop = document.documentElement.scrollTop + (window.innerHeight / 2);
             let win_height = window.innerHeight;
             console.log(`scroltop: ${scroltop}, winheight: ${win_height * 2}`)
-            if (scroltop > win_height & scroltop < (win_height * 2)){
+            if (scroltop > win_height & scroltop < (win_height * 2)) {
                 document.querySelectorAll('.bor_btn').forEach(a => {
                     a.classList.remove('active');
                 });
